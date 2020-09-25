@@ -1,5 +1,7 @@
 # Control-Systems-and-Bio-Robotics
 
+- Used MATLAB and Simulink exclusively for all projects.
+
 - Performed various tasks such as system modeling, simulation, analysis and classical-controller designs of linear, time-invariant, continuous time systems. 
 
 - Investigated system dynamic properties in time and frequency domains, performance specifications and basic properties of feedback.
