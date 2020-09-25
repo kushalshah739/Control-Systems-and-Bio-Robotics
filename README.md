@@ -4,4 +4,10 @@
 
 - Investigated system dynamic properties in time and frequency domains, performance specifications and basic properties of feedback.
 
-- Stability analysis is reinforced through Routh-Hurwitz criterion, Root-Locus method, Bode plots, and Nyquist criteria. Performed basic tasks on state-space   representation and feedback.
+- Reinforced stability analysis through Routh-Hurwitz criterion, Root-Locus method, Bode plots, and Nyquist criteria. Performed basic tasks on state-space representation and feedback.
+
+- Worked on the following projects:
+  - Transient Response and Stability in 2nd and 3rd Order Systems.
+  - Transfer Function Modeling of DC Motors and Lead and Lag Compensators.
+  - Transfer Function Modeling of Physical Systems and Control (DC Motors)
+  - PI, PD, PID Controllers and System Stability. 
